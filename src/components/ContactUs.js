@@ -8,7 +8,7 @@ export default class ContactUs extends Component {
             <div className="ten columns">
               <h1 className="lead">Contact Me</h1>
               <p className="lead">
-              Feel free to contact me for any free lance work, projects or suggestions. Can contact me either through LinkedIn or email.
+              Feel free to contact me for any free lance work, projects or suggestions by messaging me either through <strong>Email</strong> or <strong>LinkedIn</strong>. Looking forward to connect!
               </p>
             </div>
           </div>
