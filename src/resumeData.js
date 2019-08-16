@@ -55,7 +55,7 @@ let resumeData = {
       },
       {
         "CompanyName":"La Jolla Pharmaceutical Company",
-        "specialization":"Res earch Associate I",
+        "specialization":"Research Associate I",
         "MonthOfLeaving":"Jun 2018-",
         "YearOfLeaving":"Oct 2018",
         "Achievements":"Supported early-stage development and characterization of oral dosage formulations. Characterized peptide stability in varying tablet formulations by RP-uHPLC methodoligies. Performed tablet Content Uniformity and Dissolution Apparatus I & II assays according to USP guidelines."
