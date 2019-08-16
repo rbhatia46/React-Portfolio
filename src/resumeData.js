@@ -98,22 +98,26 @@ let resumeData = {
       {
         "name":"ToDoList App",
         "description":"It's a Reactjs frontend App integrated with AXIOS rest API. It was inspired from TodoIst task list application. With ToDoList never miss a task or assignment. Simply append tasks and mark them as completed once finished. Enjoy!",
-        "imgurl":"images/portfolio/onTask_square.jpg"
+        "imgurl":"images/portfolio/onTask_square.jpg",
+        "href": "https://to-do-list-jcorea.herokuapp.com/"
       },
       {
         "name":"Note&Pen",
         "description":"A Rails note taking App, note those memorable moments that make a difference in your life. Pen those ideas that will change the world. Explore worlds of adventure where your mind takes you. Note&pen a difference!",
-        "imgurl":"images/portfolio/pen&note_square.png"
+        "imgurl":"images/portfolio/pen&note_square.png",
+        "href": "https://note-pen.herokuapp.com/"
       },
       {
         "name":"DriveAway",
         "description":"It's a car valet mobileApp created with a Reactjs frontend, rails backend utilizing Google maps API. DriveAway provides valet companies and customers a manageable valet process. Sign up today!",  
-        "imgurl":"images/portfolio/DriveAway-1.png"
+        "imgurl":"images/portfolio/DriveAway-1.png",
+        "href": "https://vast-wildwood-28622.herokuapp.com/"
       },
       {
         "name":"Calculator",
         "description":"This is a simple calculator app created in Reactjs with basic utilities such as addition, substraction, division, and multiplication provided from mathjs library.",
-        "imgurl":"images/portfolio/calculator.PNG"
+        "imgurl":"images/portfolio/calculator.PNG",
+        "href": "https://simplecalc-jcorea.herokuapp.com/"
       }
     ],
     "testimonials":[
