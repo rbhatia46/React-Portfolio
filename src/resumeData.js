@@ -98,22 +98,22 @@ let resumeData = {
       {
         "name":"ToDoList App",
         "description":"It's a Reactjs frontend App integrated with AXIOS rest API. It was inspired from TodoIst task list application. With ToDoList never miss a task or assignment. Simply append tasks and mark them as completed once finished. Enjoy!",
-        "imgurl":"images/portfolio/coffee.jpg"
+        "imgurl":"images/portfolio/onTask_square.jpg"
       },
       {
         "name":"Note&Pen",
         "description":"A Rails note taking App, note those memorable moments that make a difference in your life. Pen those ideas that will change the world. Explore worlds of adventure where your mind takes you. Note&pen a difference!",
-        "imgurl":"images/portfolio/console.jpg"
+        "imgurl":"images/portfolio/pen&note_square.png"
       },
       {
         "name":"DriveAway",
         "description":"It's a car valet mobileApp created with a Reactjs frontend, rails backend utilizing Google maps API. DriveAway provides valet companies and customers a manageable valet process. Sign up today!",  
-        "imgurl":"images/portfolio/into-the-light.jpg"
+        "imgurl":"images/portfolio/DriveAway-1.png"
       },
       {
         "name":"Calculator",
         "description":"This is a simple calculator app created in Reactjs with basic utilities such as addition, substraction, division, and multiplication provided from mathjs library.",
-        "imgurl":"images/portfolio/retrocam.jpg"
+        "imgurl":"images/portfolio/calculator.PNG"
       }
     ],
     "testimonials":[
