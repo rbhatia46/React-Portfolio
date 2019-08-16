@@ -5,7 +5,7 @@ let resumeData = {
     "name": "Jonathan Corea",
     "role": "Frontend Developer",
     "linkedinId":" jon-corea",
-    "skypeid": "Your skypeid",
+    "email": " jacorea410@gmail.com",
     "roleDescription": "I like the learning about new technologies and the creativity involved in frontend development to provide the best UX/UI. In my free time I like going out for a run to think and reflect or hangout with friends.",
     "socialLinks":[
         {
