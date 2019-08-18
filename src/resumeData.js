@@ -97,7 +97,7 @@ let resumeData = {
     "portfolio":[
       {
         "name":"ToDoList App",
-        "description":"It's a Reactjs frontend App integrated with AXIOS rest API. It was inspired from TodoIst task list application. With ToDoList never miss a task or assignment. Simply append tasks and mark them as completed once finished. Enjoy!",
+        "description":"It's a Reactjs frontend App integrated with AXIOS rest API. It was inspired from Todoist task list application. With ToDoList never miss a task or assignment. Simply append tasks and mark them as completed once finished. Enjoy!",
         "imgurl":"images/portfolio/onTask_square.jpg",
         "href": "https://to-do-list-jcorea.herokuapp.com/"
       },
