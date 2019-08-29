@@ -118,6 +118,12 @@ let resumeData = {
         "description":"This is a simple calculator app created in Reactjs with basic utilities such as addition, substraction, division, and multiplication provided from mathjs library.",
         "imgurl":"images/portfolio/calculator.PNG",
         "href": "https://simplecalc-jcorea.herokuapp.com/"
+      },
+      {
+        "name":"Catch Of The Day",
+        "description":"A fish restaurant app created in Reactjs utilizing Google Firebase authentication and real-time database to manage fish available for a restuarants menu.",
+        "imgurl":"images/portfolio/catchOfTheDay.jpg",
+        "href": "https://catch-of-the-day-jacorea.netlify.com/" 
       }
     ],
     "testimonials":[
