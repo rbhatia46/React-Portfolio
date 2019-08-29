@@ -124,6 +124,12 @@ let resumeData = {
         "description":"A fish restaurant app created in Reactjs utilizing Google Firebase authentication and real-time database to manage fish available for a restuarants menu.",
         "imgurl":"images/portfolio/catchOfTheDay.jpg",
         "href": "https://catch-of-the-day-jacorea.netlify.com/" 
+      },
+      {
+        "name":"On Time",
+        "description":"A To Do List app created in rails. It has basic CRUD capibilities and helps monitor time when task was created. Additionally, it utilizes rails devise for user login/authentication.",
+        "imgurl":"images/portfolio/onTime_square.png",
+        "href": "https://ontimetask.herokuapp.com/"  
       }
     ],
     "testimonials":[
