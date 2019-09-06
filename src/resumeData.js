@@ -130,6 +130,12 @@ let resumeData = {
         "description":"A To Do List app created in rails. It has basic CRUD capibilities and helps monitor time when task was created. Additionally, it utilizes rails devise for user login/authentication.",
         "imgurl":"images/portfolio/onTime_square.png",
         "href": "https://ontimetask.herokuapp.com/"  
+      },
+      {
+        "name":"Monster Rolodex",
+        "description":"Looks like a simple React App. Dive into the structure of React components, fetching data, and passing down state and props from one Monster to another. Filter through to the find your Monster of choice. Check it out!",
+        "imgurl":"images/portfolio/monsterRolodex_square.png",
+        "href": "https://jacorea.github.io/monster-rolodex/"  
       }
     ],
     "testimonials":[
