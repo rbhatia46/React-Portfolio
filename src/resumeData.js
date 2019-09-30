@@ -22,8 +22,8 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
+    "aboutme":"I am a recent graduate of the University of Pennsylvania's LPS Coding BootCamp. Over the last six months I have been tested in skills both frontend and backend and have learn an amazing amount. I came into this program wanting to learn how to be a developer and I can say that I am confident in my skills as a Full Stack Developer. I am looking to work for a company that is focused on advancement and has a eye on the future. I am always thinking of creative and innovative ways to solve complex problems. I love to learn and can not wait to broaden my language base!",
+    "address":"Pittsburgh, PA",
     "website":"https://github.com/PWFollett",
     "education":[
       {
