@@ -99,7 +99,7 @@ let resumeData = {
         "name":"ToDoList App",
         "description":"It's a Reactjs frontend App integrated with AXIOS rest API. It was inspired from Todoist task list application. With ToDoList never miss a task or assignment. Simply append tasks and mark them as completed once finished. Enjoy!",
         "imgurl":"images/portfolio/onTask_square.jpg",
-        "href": "https://to-do-list-jcorea.herokuapp.com/"
+        "href": "https://ontime-react.herokuapp.com/"
       },
       {
         "name":"Note&Pen",
@@ -120,12 +120,6 @@ let resumeData = {
         "href": "https://simplecalc-jcorea.herokuapp.com/"
       },
       {
-        "name":"Catch Of The Day",
-        "description":"A fish restaurant app created in Reactjs utilizing Google Firebase authentication and real-time database to manage fish available for a restuarants menu.",
-        "imgurl":"images/portfolio/catchOfTheDay.jpg",
-        "href": "https://catch-of-the-day-jacorea.netlify.com/" 
-      },
-      {
         "name":"On Time",
         "description":"A To Do List app created in rails. It has basic CRUD capibilities and helps monitor time when task was created. Additionally, it utilizes rails devise for user login/authentication.",
         "imgurl":"images/portfolio/onTime_square.png",
@@ -136,7 +130,15 @@ let resumeData = {
         "description":"Looks like a simple React App. Dive into the structure of React components, fetching data, and passing down state and props from one Monster to another. Filter through to the find your Monster of choice. Check it out!",
         "imgurl":"images/portfolio/monsterRolodex_square.png",
         "href": "https://jacorea.github.io/monster-rolodex/"  
-      }
+      },
+      {
+        "name":"Catch Of The Day",
+        "description":"A fish restaurant app created in Reactjs utilizing Google Firebase authentication and real-time database to manage fish available for a restuarants menu.",
+        "imgurl":"images/portfolio/catchOfTheDay.jpg",
+        "href": "https://catch-of-the-day-jacorea.netlify.com/" 
+      },
+      
+   
     ],
     "testimonials":[
       {
