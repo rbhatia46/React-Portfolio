@@ -1,72 +1,73 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
+    "imagebaseurl":"https://avatars0.githubusercontent.com/u/49852311?s=460&v=4",
+    "name": "Stacy Williams",
+    "role": "Full Stack Software Engineer",
+    "linkedinId":"http://github.com/StacyWilliams",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/stacy-marie-williams/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/StacyWilliams",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "name":"twitter",
+          "url":"http://twitter.com/CodingCntryGirl",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
+    "aboutme":"I am passionate about stepping into an industry where I will be able to contribute by building useful software products for the world. I took an interest in web development in 2007 while attending college. In 2009, I received an Associate Degree in Computer Information Systems and a Technical Certificate in Computer Networking where I gained exposure to programming in Visual Basic, SQL, and Java. My professional background includes military service, prison security, education, and customer service. April 2019 is when I began my journey as a Computer Science student online at Lambda School with a focus in Full Stack Web Development. In my courses, I am gaining hands-on, real world experience as a Software Developer that includes learning in a remote collaborative environment, completing sprint projects each week, and practicing modern technology standards. My goal is to work in a Full Time role as a Software Developer or Software Engineer and bring together my love for technology and my curiosity of the world as a whole. I love to learn and I'm always working to refine my knowledge as a professional but also personally.",
+    "address":"Arkansas",
     "website":"https://rbhatia46.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Lambda School Academy of Computer Science",
+        "specialization":"Full-Stack Web Development",
+        "MonthOfPassing":"Sept",
+        "YearOfPassing":"2019",
+        "Achievements":""
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Seark College",
+        "specialization":"Information Systems",
+        "MonthOfPassing":"Dec",
+        "YearOfPassing":"2009",
+        "Achievements":"A.A.S Computer Information Systems"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"United States Marine Corps",
+        "specialization":"Unit Diary Clerk",
+        "MonthOfLeaving":"Oct",
+        "YearOfLeaving":"2006",
+        "Achievements":"Honorable Discharge"
       }
     ],
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"Javascript"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Nodejs"
       },
       {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"Expressjs"
+      },
+      {
+        "skillname":"HTML5"
+      },
+      {
+        "skillname":"CSS/LESS"
       }
     ],
     "portfolio":[
