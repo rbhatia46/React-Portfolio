@@ -2,8 +2,8 @@ let resumeData = {
     "imagebaseurl":"https://avatars0.githubusercontent.com/u/49852311?s=460&v=4",
     "name": "Stacy Williams",
     "role": "Full Stack Software Engineer",
-    "linkedinId":"http://github.com/StacyWilliams",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "linkedinId":"https://www.linkedin.com/in/stacy-marie-williams/",
+    "roleDescription": "I enjoy working in all parts of software development, but have an affinity for the backend. I am learning how to play the acustic guitar, and love taking my Husky for walks",
     "socialLinks":[
         {
           "name":"linkedin",
