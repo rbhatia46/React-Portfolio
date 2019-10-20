@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Stacy Williams",
     "role": "Full Stack Software Engineer",
     "linkedinId":"https://www.linkedin.com/in/stacy-marie-williams/",
-    "roleDescription": "I enjoy working in all parts of software development, but have an affinity for the backend. I am learning how to play the acustic guitar, and love taking my Husky for walks",
+    "roleDescription": "I have enjoyed learning but am ready to push my skills and help deliver real world products. I have experience in all parts of software development, but have an affinity for the backend. I am learning how to play the acustic guitar, and love spending time with my Husky",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -21,7 +21,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am passionate about stepping into an industry where I will be able to contribute by building useful software products for the world. I took an interest in web development in 2007 while attending college. In 2009, I received an Associate Degree in Computer Information Systems and a Technical Certificate in Computer Networking where I gained exposure to programming in Visual Basic, SQL, and Java. My professional background includes military service, prison security, education, and customer service. April 2019 is when I began my journey as a Computer Science student online at Lambda School with a focus in Full Stack Web Development. In my courses, I am gaining hands-on, real world experience as a Software Developer that includes learning in a remote collaborative environment, completing sprint projects each week, and practicing modern technology standards. My goal is to work in a Full Time role as a Software Developer or Software Engineer and bring together my love for technology and my curiosity of the world as a whole. I love to learn and I'm always working to refine my knowledge as a professional but also personally.",
+    "aboutme":"I am passionate about stepping into an industry where I will be able to contribute by building useful software products for the world. I took an interest in web development in 2007 while attending college. In 2009, I received an Associate Degree in Computer Information Systems and a Technical Certificate in Computer Networking where I gained exposure to programming in Visual Basic, SQL, and Java. I had to leave college 5 classes short of my B.S degree.  But in April 2019 I continued my journey as a Computer Science student online at Lambda School with a focus in Full Stack Web Development. In my courses, I have gained hands-on, real world experience as a Software Developer that includes learning in a remote collaborative environment, completing sprint projects each week, practicing modern technology standard and completing a collaborative 8 week project through multiple development cycles. My goal is to work in a Full Time role as a Software Engineer and bring together my love for technology and my curiosity of the world as a whole. I love to learn and I'm always working to refine my knowledge as a professional but also personally.",
     "address":"Arkansas",
     "website":"https://rbhatia46.github.io",
     "education":[
@@ -35,8 +35,8 @@ let resumeData = {
       {
         "UniversityName":"Seark College",
         "specialization":"Information Systems",
-        "MonthOfPassing":"Dec",
-        "YearOfPassing":"2009",
+        "MonthOfPassing":"",
+        "YearOfPassing":"",
         "Achievements":"A.A.S Computer Information Systems"
       }
     ],
@@ -72,24 +72,24 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Rsponsive Web Design",
+        "description":"HTML5/CSS",
+        "imgurl":"images/ResponsiveWeb.png"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Space Walker",
+        "description":"HTML5/CSS3/LESS",
+        "imgurl":"images/MVP1.png"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"React-TodoList",
+        "description":"webapp",  
+        "imgurl":"images/todoList.png"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Backend",
+        "description":"Node/Express",
+        "imgurl":"images/backend.png"
       }
     ],
     "testimonials":[
