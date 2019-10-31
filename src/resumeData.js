@@ -117,7 +117,7 @@ let resumeData = {
         "name":"Calculator",
         "description":"This is a simple calculator app created in Reactjs with basic utilities such as addition, substraction, division, and multiplication provided from mathjs library.",
         "imgurl":"images/portfolio/calculator.PNG",
-        "href": "https://simplecalc-jcorea.herokuapp.com/"
+        "href": "https://5dbb55eef8bb425c171579c9--simpletouchcalc.netlify.com/"
       },
       {
         "name":"On Time",
@@ -137,6 +137,12 @@ let resumeData = {
         "imgurl":"images/portfolio/catchOfTheDay.jpg",
         "href": "https://catch-of-the-day-jacorea.netlify.com/" 
       },
+      {
+        "name":"e-commerce",
+        "description":"A clothing e-commerce application created in Reatjs, Redux for state management, and Google Firebase backend. It utlizes the Stripe API for payment processing.",
+        "imgurl":"images/portfolio/e-commerce_square.png",
+        "href": "https://e-commerce-jcorea.herokuapp.com/signin" 
+      }
       
    
     ],
