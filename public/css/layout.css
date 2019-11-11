@@ -252,7 +252,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid #F06000;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -796,7 +796,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: #F06000 }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -857,7 +857,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: #F06000;
 }
 #contact button.submit {
 	text-transform: uppercase;
