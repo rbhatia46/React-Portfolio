@@ -92,6 +92,18 @@ let resumeData = {
       },
       {
         "skillname":"RubyonRails"
+      },
+      {
+        "skillname":"C#"
+      },
+      {
+        "skillname":"Jest"
+      },
+      {
+        "skillname":"PostgreSQL"
+      },
+      {
+        "skillname":"Asp.net"
       }
     ],
     "portfolio":[
@@ -141,10 +153,8 @@ let resumeData = {
         "name":"e-commerce",
         "description":"A clothing e-commerce application created in Reatjs, Redux for state management, and Google Firebase backend. It utlizes the Stripe API for payment processing.",
         "imgurl":"images/portfolio/e-commerce_square.png",
-        "href": "https://e-commerce-jcorea.herokuapp.com/signin" 
+        "href": "https://jacorea-e-commerce.netlify.app/" 
       }
-      
-   
     ],
     "testimonials":[
       {
