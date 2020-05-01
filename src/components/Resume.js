@@ -78,7 +78,7 @@ export default  class Resume extends Component {
                   resumeData.skills && resumeData.skills.map((item) => {
                     return(
                       <li className="four columns">
-                        <em>{item.skillname}</em>
+                        <em><strong>{item.skillname}</strong></em>
                       </li>
                     )
                   })
