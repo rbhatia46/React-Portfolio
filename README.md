@@ -1,3 +1,7 @@
+<a href="https://tracking.gitads.io/?repo=React-Portfolio"><img src="https://images.gitads.io/React-Portfolio" alt=“GitAds”/></a>
+
+You can support me by clicking on the above ad, it really helps me to create amazing open source projects which help the open source community. Thanks!
+
 [![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
 
 
