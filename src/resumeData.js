@@ -1,63 +1,82 @@
+
+
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "name": "Jonathan Corea",
+    "role": "Frontend Developer",
+    "linkedinId":" jon-corea",
+    "email": " jacorea410@gmail.com",
+    "roleDescription": "I like learning about new technologies and the creativity involved in frontend development to provide the best UX/UI. In my free time I like going out for a run to think and reflect or hangout with friends.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/jon-corea/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/jacorea",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am a Full Stack Web Developer with experience in JavaScript, Reactjs, Rails and backed by 4+ years of Pharmaceutical Research and Development. I am passionate about building and optimizing applications with intuive user experience.",
+    "address":"San Diego, CA",
+    "website":"https://github.com/jacorea",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"University of California, San Diego",
+        "specialization":"B.S. Biochemistry & minor Political Science",
+        "MonthOfPassing":"Dec",
+        "YearOfPassing":"2014",
+        "Achievements":"Studied biochemical & analytical techniques and instrumentation to research protein modality stability, protein-protein interactions, and post-translational modifications. Additionally, took organic chemistry lab synthesizing and modifying small organic compounds. "
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"LEARN Academy",
+        "specialization":"Fullstack Web Development",
+        "MonthOfPassing":"Feb",
+        "YearOfPassing":"2019",
+        "Achievements":"12 weeks, full stack web development bootcamp, finished February 2019. Developed foundational coding skills in JavaScript, ReactJS, and Ruby on Rails. Delivered a 2-week MVP Valet App built with React frontend and Rails backend. Integrated Google maps API used to locate Valet company locations. The valet app provides an intuitive way for valet companies and customers to signup and monitor vehicle status during valeting process. "
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"MK Decision",
+        "specialization":"Software Developer Intern",
+        "MonthOfLeaving":"Jun 2019-",
+        "YearOfLeaving":"Jul 2019",
+        "Achievements":"Developed a donations portal utilzing Moqui, a Java & Groovy based framework, used by MK Decision's to develop software for small bank loans and credit card processing. Enhanced donation's portal with Gatsbyjs. This project enabled me to acclimate to Mk Decision's business logic and software architecture."
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
+        "CompanyName":"Boxmaeker, LLC",
+        "specialization":"Web Development Intern",
+        "MonthOfLeaving":"Feb 2019-",
+        "YearOfLeaving":"Apr 2019",
+        "Achievements":"Developed software for industry-level weight scales. Lead backend development for real-time dashboard utilizing Reactjs frontend and Material-UI library for styling by integrating Google Firebase to React. Created permissions to only authorized users to access their personal dashboard."
+      },
+      {
+        "CompanyName":"La Jolla Pharmaceutical Company",
+        "specialization":"Research Associate I",
+        "MonthOfLeaving":"Jun 2018-",
+        "YearOfLeaving":"Oct 2018",
+        "Achievements":"Supported early-stage development and characterization of oral dosage formulations. Characterized peptide stability in varying tablet formulations by RP-uHPLC methodoligies. Performed tablet Content Uniformity and Dissolution Apparatus I & II assays according to USP guidelines."
+      },
+      {
+        "CompanyName":"Vertex Pharmaceuticals",
+        "specialization":"Scientific Associate",
+        "MonthOfLeaving":"Feb 2017-",
+        "YearOfLeaving":"Jun 2018",
+        "Achievements":"Characterized aspects of solid forms and drug substances, starting materials, and intermediates. Performed physical characterization assays to assess solid form of drug substances by DSC,TGA, PXRD, and Particle Size."
+      },
+      {
+        "CompanyName":"Takeda Pharmaceuticals",
+        "specialization":"Research Associate I",
+        "MonthOfLeaving":"Jan 2015-",
+        "YearOfLeaving":"Feb 2017",
+        "Achievements":"Facilitated in transitioning existing protein management database to new web-based inventory application. Managed protein inventory of in-house production by aliquoting, freezing, registering, and coordinating shipments within and outside Takeda. Performed quality assessment and in-depth characterization for in-house protein production for early-stage research programs using Agilent SEC and LC/MS, Wyatt MALS, and Uvikon-Vis instrumentation. Data was summarized in Certificate of Analysis reports."
+      },
+
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Languages/Frameworks",
     "skills":[
       {
         "skillname":"HTML5"
@@ -66,29 +85,75 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
+        "skillname":"JavaScript"
+      },
+      {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"RubyonRails"
+      },
+      {
+        "skillname":"C#"
+      },
+      {
+        "skillname":"Jest"
+      },
+      {
+        "skillname":"PostgreSQL"
+      },
+      {
+        "skillname":"Asp.net"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"ToDoList App",
+        "description":"It's a Reactjs frontend App integrated with AXIOS rest API. It was inspired from Todoist task list application. With ToDoList never miss a task or assignment. Simply append tasks and mark them as completed once finished. Enjoy!",
+        "imgurl":"images/portfolio/onTask_square.jpg",
+        "href": "https://ontime-react.herokuapp.com/"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Note&Pen",
+        "description":"A Rails note taking App, note those memorable moments that make a difference in your life. Pen those ideas that will change the world. Explore worlds of adventure where your mind takes you. Note&pen a difference!",
+        "imgurl":"images/portfolio/pen&note_square.png",
+        "href": "https://note-pen.herokuapp.com/"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"DriveAway",
+        "description":"It's a car valet mobileApp created with a Reactjs frontend, rails backend utilizing Google maps API. DriveAway provides valet companies and customers a manageable valet process. Sign up today!",  
+        "imgurl":"images/portfolio/DriveAway-1.png",
+        "href": "https://vast-wildwood-28622.herokuapp.com/"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Calculator",
+        "description":"This is a simple calculator app created in Reactjs with basic utilities such as addition, substraction, division, and multiplication provided from mathjs library.",
+        "imgurl":"images/portfolio/calculator.PNG",
+        "href": "https://5dbb55eef8bb425c171579c9--simpletouchcalc.netlify.com/"
+      },
+      {
+        "name":"On Time",
+        "description":"A To Do List app created in rails. It has basic CRUD capibilities and helps monitor time when task was created. Additionally, it utilizes rails devise for user login/authentication.",
+        "imgurl":"images/portfolio/onTime_square.png",
+        "href": "https://ontimetask.herokuapp.com/"  
+      },
+      {
+        "name":"Monster Rolodex",
+        "description":"Looks like a simple React App. Dive into the structure of React components, fetching data, and passing down state and props from one Monster to another. Filter through to the find your Monster of choice. Check it out!",
+        "imgurl":"images/portfolio/monsterRolodex_square.png",
+        "href": "https://jacorea.github.io/monster-rolodex/"  
+      },
+      {
+        "name":"Catch Of The Day",
+        "description":"A fish restaurant app created in Reactjs utilizing Google Firebase authentication and real-time database to manage fish available for a restuarants menu.",
+        "imgurl":"images/portfolio/catchOfTheDay.jpg",
+        "href": "https://catch-of-the-day-jacorea.netlify.com/" 
+      },
+      {
+        "name":"e-commerce",
+        "description":"A clothing e-commerce application created in Reatjs, Redux for state management, and Google Firebase backend. It utlizes the Stripe API for payment processing.",
+        "imgurl":"images/portfolio/e-commerce_square.png",
+        "href": "https://jacorea-e-commerce.netlify.app/" 
       }
     ],
     "testimonials":[
