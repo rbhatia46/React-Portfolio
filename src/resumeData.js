@@ -103,4 +103,4 @@ let resumeData = {
     ]
   }
   
-  export default resumeData
+  export default resumeData;
