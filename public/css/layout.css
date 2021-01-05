@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #161415 url('https://lh3.googleusercontent.com/JYv1JiL9-DN0PNQeeOfC5kXXNv5gQ481744WeBFHUz8bw8A-VnWU5KNXhQw7M9Eq47JqRdBoQ-Ud1jnhHin9yFaf_KuZAUpAJSfSbCnvTyUt6KwGdrhfCJIxTcqVoTXIcC8Kl3XTVpRj7cI0dZnnSAU992j13NUtRrwQZ0Jmd-eAfnct0ocsz1VPpzhlD59g6if85JLLoshAGQPPU8v-JwTuIRaAuFIFTs6eJzKbq3gzTM-aVdlrU5z_x4V44ydm9AZegdDG17COLv9YbJL0KRyXUtwcbqLvsgidD9inkC6HQqH2WhnJG96JEwJPz9AmmlU1Xa-VbV7xNei0HyFKK8TidxnqWwfkyvxD4d77n5v2_pMdTjSZOdeKX4anz7D-GmBGG9j9uFN3UCAi7FDeRGnkP6GswsUsj3quS06JpL8AI__ULEdsgq8MRBHPS3qBrBVDBABzx8KqVS2HAzhVGVdfujMHI-ALChBcFkN_yGgT4fG7XPZf5l9r4iGNe9XAQTroEqe-FMgyNbPosazcTiCk9CMm9_8SWw78454xc8FWt3-TxVo2oDNb6qynIYkA88tDaOsJZ2v2JiRT1VGjOLa4w40m_Rdq4IZnI88UZg53hqujjolutZIp7MgxaSDgGFmvjSGBP1QBnWLkxkD_rfu5udBoZzzOxKURP0wYCFV3Ni6-XhzQgb3h1s9y=w1920-h910-no?authuser=0') no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
