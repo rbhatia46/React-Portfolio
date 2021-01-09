@@ -1,0 +1,10 @@
+.footer{
+  padding: 2vh;
+  background-color: lightblue;
+  bottom: 0px;
+  line-height: 70%;
+}
+
+.footer-content{
+  margin-left: 20vh;
+}

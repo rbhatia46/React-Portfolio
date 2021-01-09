@@ -38,6 +38,8 @@ let resumeData = {
       {
         "CompanyName":"2U",
         "specialization":"Full Stack Web Developer",
+        "MonthOfStarting": "Jul",
+        "YearOfStarting": "2020",
         "MonthOfLeaving":"Present",
         "YearOfLeaving":"",
         "Achievements":"Top 1% in student satisfaction"
@@ -45,6 +47,8 @@ let resumeData = {
       {
         "CompanyName":"AT&T",
         "specialization":"Sales Associate",
+        "MonthOfStarting": "Aug",
+        "YearOfStarting": "2016",
         "MonthOfLeaving":"Aug",
         "YearOfLeaving":"2020",
         "Achievements":"Summit Award Winner 2017"
@@ -52,6 +56,8 @@ let resumeData = {
       {
         "CompanyName":"Samsung Electronics America",
         "specialization":"Lead Experience Consultant",
+        "MonthOfStarting": "Sep",
+        "YearOfStarting": "2015",
         "MonthOfLeaving":"Aug",
         "YearOfLeaving":"2016",
         "Achievements":"Oversaw 26 locations"
@@ -93,12 +99,15 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":`Tyler was a student of mine in the 12-week full time program. From day one, he set himself apart with an admirable mix of drive, attention to detail, and engagement with the material. He was quick to master skills in class, to practice and self-study in any areas of relative weakness, and to share his knowledge and enthusiasm with classmates. During group work he demonstrated fantastic communication and teamwork skills, and handily juggled project management alongside his development tasks.
+
+        Tyler is an ambitious, inquisitive developer who seeks to improve his skills constantly. I am confident that his ever-growing development skills, his dedication, and his soft skills will make him a strong asset to ANY development team.`,
+        "name":"Sarah Cullen, Director of Technical Instruction"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":`Tyler is a skilled full stack web developer. He was able to quickly adapt and absorb new technologies and materials. He is equally as skilled at communication and collaboration. His grasp of full stack development was unsurpassed in our group. Not only was he able to learn the materials but also tutored and helped others to grasp the material as well.
+        I have managed multiple teams for various organizations and owned a company for some time. If I were in search of a full stack developer for my organization he would be the first person I would contact.`,
+        "name":"Todd Leslie, Infrastructure Lead"
       }
     ]
   }
