@@ -27,11 +27,11 @@ let resumeData = {
     "website":"https://rbhatia46.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
+        "UniversityName":"University of British Columbia",
+        "specialization":"CS",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "Achievements":"Github Workshop"
       },
       {
         "UniversityName":"Some University",
