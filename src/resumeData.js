@@ -1,51 +1,49 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"https://shravanipagilla.github.io/",
+    "name": "Shravani Pagilla",
+    "role": "Fullstack Developer",
+    "linkedinId":" shravanipag",
+    "Mail":" nampally04@gmail.com",
+    "roleDescription": "I like dabbling in various parts of fullstack development and like to learn about new technologies",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/shravanipag/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/shravanipagilla",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"http://twitter.com/shravanipagilla",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am currently Fullstack Developer Intern  at Hack Your Future Copenhagen. Currently diving deeper into React . I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "website":"https://shravanipagilla.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Hack your future",
+        "specialization":"Fullstack Developer",
+        "MonthOfPassing":"Feb",
+        "YearOfPassing":"2022"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Osmania University",
+        "specialization":"Bachelor of IT",
+        "MonthOfPassing":"Sept",
+        "YearOfPassing":"2014"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"Hack your future",
+        "specialization":"Fullstack Developer Intern",
+        "MonthOfLeaving":"Since Feb 2022",
         "YearOfLeaving":"2018",
         "Achievements":"Some Achievements"
       },
@@ -57,7 +55,7 @@ let resumeData = {
         "Achievements":"Some Achievements"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"skills",
     "skills":[
       {
         "skillname":"HTML5"
@@ -67,13 +65,22 @@ let resumeData = {
       },
       {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"nodeJS"
+      },
+      {
+        "skillname":"MySql"
+      },
+      {
+        "skillname":"Docker"
       }
     ],
     "portfolio":[
       {
         "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "description":"mealSharing App",
+        "imgurl":"images/portfolio/mealsharing.png"
       },
       {
         "name":"project2",
