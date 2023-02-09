@@ -3,12 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^5.0.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
+    "deploy": "gh-pages -b main -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
