@@ -9,7 +9,7 @@
     "react-scripts": "^5.0.1"
   },
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
+    "start": "react-scripts start",
     "deploy": "gh-pages -b main -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
