@@ -2,8 +2,8 @@
 ![Star this repository](https://img.shields.io/github/stars/rbhatia46/React-Portfolio?style=social)
 
 
-A![Screenshot_20230227_094621](https://user-images.githubusercontent.com/116297281/221595154-ca8cb78d-a69d-4be5-96c9-e9ef9abeeef7.png)
- simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
+![Screenshot_20230227_094621](https://user-images.githubusercontent.com/116297281/221595154-ca8cb78d-a69d-4be5-96c9-e9ef9abeeef7.png)
+A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
 ## Preview
 
