@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://asapharris.github.io/",
     "name": "Jamie Harris",
     "role": "Full-Stack Web Developer & Electronics Engineering Techninician",
-    "linkedinId":"Asapharris88@gmail.com",
+    "linkedinId":" Asapharris88@gmail.com; Github: Asapharris; PHONE NUMBER: 4846325217",
     
     "roleDescription": " I was previously in the electronics field but after some time decided I needed change and became a beginnger Full-Stack Web Developer",
     "socialLinks":[
@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-gmail"
         }
       ],
-    "aboutme":"Who am I? I am hardworking experienced and educated person who is ready to begin the next step I have recently completed the University of Penn's Online Computer Coding Bootcamp to become a Full-Stack Web Developer. I Am open to working with front or back-end, databases, and full-stack development. My experience and background in Electronics are helpful when learning to code and can be a resource in developing my future skills.",
+    "aboutme":"Who am I? I am hardworking experienced and educated person who is ready to begin the next steps in my career. I have recently completed the University of Penn's Online Computer Coding Bootcamp to become a Full-Stack Web Developer. I Am open to working with front or back-end, databases, and full-stack development. My experience and background in Electronics are helpful when learning to code and can be a resource in developing my future skills.",
     "address":"Allentown, PA",
     "website":"https://asapharris.github.io",
     "education":[
@@ -39,7 +39,14 @@ let resumeData = {
         "MonthOfPassing":"Mar",
         "YearOfPassing":"2020",
         "Achievements":"Associates Degree"
-      }
+      },
+      {
+        "UniversityName":"Indiana University of Pennsylvania",
+        "specialization":"Undecided Business Courses",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2016",
+        "Achievements":"One Year Complete"
+      },
     ],
     "work":[
       {
@@ -55,28 +62,47 @@ let resumeData = {
         "MonthOfLeaving":"Nov",
         "YearOfLeaving":"2021",
         "Achievements":"Complete assembly of electronic components onto PC boards using a machine and by hand."
-      }
+      },
+      {
+        "CompanyName":"Kistler O'Brien Fire Protection",
+        "specialization":"Fire Alarm Panel Technician",
+        "MonthOfLeaving":"Dec",
+        "YearOfLeaving":"2020",
+        "Achievements":"Shadow and learn how to test fire alarm panels; Utilize volt meter knowledge AC/DC concepts and circuitry."
+      },
+      {
+        "CompanyName":"Target",
+        "specialization":"Stock/Inbound",
+        "MonthOfLeaving":"Sept",
+        "YearOfLeaving":"2020",
+        "Achievements":"Worked for 3 and a half years unloading freight from the truck and stocked in store and backroom area."
+      },
     ],
+    "skillsDescription":"Click here for my official resume.",
     "portfolio":[
       {
         "name":"The Video Game App",
         "description":"Website & Mobile App",
-        "imgurl":"/images/leaf.jpg"
+        "imgurl":"/images/Screenshot_20230227_123415.png",
+        "url":"https://asapharris.github.io/the-video-game-app/"
       },
       {
         "name":"SoundByte",
         "description":"Website",
-        "imgurl":"images/view.jpg"
+        "imgurl":"/images/Screenshot_20230227_123930.png",
+        "url":"https://soundbyte.herokuapp.com/login"
       },
       {
         "name":"NestEase",
         "description":"React App",  
-        "imgurl":"images/house.jpg"
+        "imgurl":"/images/Screenshot_20230227_010527.png",
+        "url":"https://nestease.herokuapp.com/"
       },
       {
         "name":"Password Generator",
         "description":"Webpage",
-        "imgurl":"images/water.jpg"
+        "imgurl":"/images/Screenshot_20230227_123750.png",
+        "url":"https://asapharris.github.io/Password-Generator/"
       }
     ],
     "testimonials":[

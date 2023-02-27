@@ -117,7 +117,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #02aaf2; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -140,7 +140,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color: #191919; }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -187,14 +187,14 @@ ul#nav li.current a { color: #0073ff; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #212121;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: #0c97ce; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -203,7 +203,7 @@ ul#nav li.current a { color: #0073ff; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #878787;
 }
 #about .profile-pic {
    position: relative;
@@ -236,7 +236,7 @@ ul#nav li.current a { color: #0073ff; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background: #e7e7e7;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -268,13 +268,15 @@ ul#nav li.current a { color: #0073ff; }
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   color: #50565c;
    margin-bottom: 18px;
    margin-top: 9px;
 }
 #resume .info span {
    margin-right: 5px;
    margin-left: 5px;
+   color: #50565c;
+
 }
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;
@@ -411,7 +413,7 @@ ul#nav li.current a { color: #0073ff; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #1e1e1e;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -582,7 +584,7 @@ ul#nav li.current a { color: #0073ff; }
 /* ------------------------------------------------------------------ */
 
 #call-to-action {
-   background: #212121;
+   background: #2a2a2a;
    padding-top: 66px;
    padding-bottom: 48px;
 }
@@ -639,7 +641,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/space.webp) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
