@@ -1,106 +1,91 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"https://asapharris.github.io/",
+    "name": "Jamie Harris",
+    "role": "Full-Stack Web Developer & Electronics Engineering Techninician",
+    "linkedinId":"Asapharris88@gmail.com",
+    
+    "roleDescription": " I was previously in the electronics field but after some time decided I needed change and became a beginnger Full-Stack Web Developer",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/jamie-harris-0802b6266/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/asapharris",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
+          "name":"gmail",
+          "url":"http://gmail.com/asapharris88",
+          "className":"fa fa-gmail"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Who am I? I am hardworking experienced and educated person who is ready to begin the next step I have recently completed the University of Penn's Online Computer Coding Bootcamp to become a Full-Stack Web Developer. I Am open to working with front or back-end, databases, and full-stack development. My experience and background in Electronics are helpful when learning to code and can be a resource in developing my future skills.",
+    "address":"Allentown, PA",
+    "website":"https://asapharris.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"University of Pennsylvania",
+        "specialization":"Computer Programming",
+        "MonthOfPassing":"Feb",
+        "YearOfPassing":"2023",
+        "Achievements":"Certificate in Computer Coding"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Lincoln Technical Institute",
+        "specialization":"Electronics Engineering Technology",
+        "MonthOfPassing":"Mar",
+        "YearOfPassing":"2020",
+        "Achievements":"Associates Degree"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Solar Technology",
+        "specialization":"Surface Mount Specialist",
+        "MonthOfLeaving":"Sept",
+        "YearOfLeaving":"2022",
+        "Achievements":"Printed out PC boards for solar panels with surface mount technology. I did maintenance on all the machines while producing, testing, and repairing the PC boards."
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
-    ],
-    "skillsDescription":"Your skills here",
-    "skills":[
-      {
-        "skillname":"HTML5"
-      },
-      {
-        "skillname":"CSS"
-      },
-      {
-        "skillname":"Reactjs"
+        "CompanyName":"Allen Organ",
+        "specialization":"Machine Operator",
+        "MonthOfLeaving":"Nov",
+        "YearOfLeaving":"2021",
+        "Achievements":"Complete assembly of electronic components onto PC boards using a machine and by hand."
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"The Video Game App",
+        "description":"Website & Mobile App",
+        "imgurl":"/images/leaf.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"SoundByte",
+        "description":"Website",
+        "imgurl":"images/view.jpg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"NestEase",
+        "description":"React App",  
+        "imgurl":"images/house.jpg"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Password Generator",
+        "description":"Webpage",
+        "imgurl":"images/water.jpg"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Everyone should learn how to code, it teaches you to think.",
+        "name":"Steve Jobs"
       },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
     ]
+  
   }
   
   export default resumeData
