@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full-Stack Web Developer & Electronics Engineering Techninician",
     "linkedinId":" Asapharris88@gmail.com; Github: Asapharris; PHONE NUMBER: 4846325217",
     
-    "roleDescription": " I was previously in the electronics field but after some time decided I needed change and became a beginnger Full-Stack Web Developer",
+    "roleDescription": " I am currently in the electronics field as a SMT technician but after some time decided I need a change of pace and new challenges and also became a Full-Stack Web Developer",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-gmail"
         }
       ],
-    "aboutme":"Who am I? I am hardworking experienced and educated person who is ready to begin the next steps in my career. I have recently completed the University of Penn's Online Computer Coding Bootcamp to become a Full-Stack Web Developer. I Am open to working with front or back-end, databases, and full-stack development. My experience and background in Electronics are helpful when learning to code and can be a resource in developing my future skills.",
+    "aboutme":"Who am I? I am hardworking experienced and educated person who is ready to begin the next steps in my career. I have recently completed the University of Penn's Online Computer Coding Bootcamp to become a Full-Stack Web Developer. I Am open to working with front or back-end, databases, and full-stack development. My experience and background in electronics are helpful when learning to code and can be a resource in developing my future skills.",
     "address":"Allentown, PA",
     "website":"https://asapharris.github.io",
     "education":[
@@ -51,10 +51,10 @@ let resumeData = {
     "work":[
       {
         "CompanyName":"Solar Technology",
-        "specialization":"Surface Mount Specialist",
-        "MonthOfLeaving":"Sept",
-        "YearOfLeaving":"2022",
-        "Achievements":"Printed out PC boards for solar panels with surface mount technology. I did maintenance on all the machines while producing, testing, and repairing the PC boards."
+        "specialization":"Surface Mount Technology Specialist",
+        "MonthOfLeaving":"Current role",
+        "YearOfLeaving":"2023",
+        "Achievements":"Print out PC boards for solar panels with surface mount technology. I do maintenance on all the machines while producing, testing, and repairing the PC boards."
       },
       {
         "CompanyName":"Allen Organ",
