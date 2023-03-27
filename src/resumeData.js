@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://asapharris.github.io/",
     "name": "Jamie Harris",
     "role": "Full-Stack Web Developer & Electronics Engineering Techninician",
-    "linkedinId":" Asapharris88@gmail.com; Github: Asapharris; PHONE NUMBER: 4846325217",
+    "linkedinId":" Asapharris88@gmail.com; Github: Asapharris; Phone Number: 4846325217",
     
     "roleDescription": " I am currently in the electronics field as a SMT technician but after some time decided I need a change of pace and new challenges and also became a Full-Stack Web Developer",
     "socialLinks":[
