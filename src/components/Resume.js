@@ -58,19 +58,17 @@ export default  class Resume extends Component {
               }
             </div> 
          </div>
-
-
          <div className="row skill">
 
             <div className="three columns header-col">
-               <h1><span>Skills</span></h1>
+               <h1><span>Resume</span></h1>
             </div>
 
-            <div className="nine columns main-col">
+            <div className="nine columns main-col" >
 
-               <p>
-               {resumeData.skillsDescription}
-               </p>
+            <li><a className="btn" href="https://docs.google.com/document/d/1Uti0nFYrW4D5iRmsMRy5VnWjJVi7asfS/edit?usp=sharing&ouid=116214723470280029628&rtpof=true&sd=true" target="_blank">{resumeData.skillsDescription}</a></li>
+               
+            
 
    				<div className="bars">
 
@@ -93,7 +91,6 @@ export default  class Resume extends Component {
    			</div>
 
          </div>
-
       </section>
     );
   }

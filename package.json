@@ -5,7 +5,12 @@
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "react-router-dom": "6.8.2"
+  },
+  "engines" : { 
+    "npm" : "6.14.13",
+    "node" : "14.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
